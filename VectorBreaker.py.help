@@ -1,0 +1,20 @@
+(dp0
+S'input'
+p1
+Vinput vector
+p2
+sS'ALG_DESC'
+p3
+VIterate over files and break them into regions
+p4
+sNV
+p5
+sS'output'
+p6
+VOutput folder
+p7
+sS'breakers'
+p8
+Vthe breaker vectors
+p9
+s.
